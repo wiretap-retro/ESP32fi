@@ -1,4 +1,4 @@
-# ESPfi32
+# ESP32fi
 A parallel port ESP32 plipbox for the Amiga.
 
 ![pic](pic.png)
